@@ -1,0 +1,6 @@
+﻿<configuration>
+...
+  <connectionStrings>
+      <add name="RolesDbApp" connectionString="data source=ZAGORCHEV;Integrated Security=SSPI;initial catalog=RolesDbApp" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+</configuration>

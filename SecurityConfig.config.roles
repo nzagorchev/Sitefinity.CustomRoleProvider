@@ -1,0 +1,6 @@
+﻿<securityConfig>
+...
+  <roleProviders>
+    <add title="CustomRoles" type="SitefinityWebApp.CustomRoleProvider, SitefinityWebApp" enabled="True" name="CustomRoles" />
+  </roleProviders>
+</securityConfig>
